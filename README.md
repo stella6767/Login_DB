@@ -118,9 +118,9 @@ http와 통신하기 <AndroidManifest>파일에 인터넷 권한도 추가해줍
 <레이아웃 구성>
 
 <div>
-![image](https://user-images.githubusercontent.com/65489223/97873725-63e34400-1d5b-11eb-897b-ac1baea07c9e.png)
-![image](https://user-images.githubusercontent.com/65489223/97873732-6776cb00-1d5b-11eb-80aa-039f2aa44636.png)
-![image](https://user-images.githubusercontent.com/65489223/97873738-69d92500-1d5b-11eb-9f6d-ad43c877d5ce.png)
+<img width="200" src="https://user-images.githubusercontent.com/65489223/97873725-63e34400-1d5b-11eb-897b-ac1baea07c9e.png">
+<img width="200" src="https://user-images.githubusercontent.com/65489223/97873732-6776cb00-1d5b-11eb-80aa-039f2aa44636.png">
+<img width="200" src="https://user-images.githubusercontent.com/65489223/97873738-69d92500-1d5b-11eb-9f6d-ad43c877d5ce.png">
 
 </div>
 
